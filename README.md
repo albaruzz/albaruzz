@@ -25,4 +25,5 @@
 </p>
 
 ## Connect with me ☕ :
-[![@nurrasyidalbar@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@nurrasyidalbar@gmail.com")](nurrasyidalbar@gmail.com)
+<a href="mailto:@nurrasyidalbar@gmail.com" >
+  <img align="center" alt="Hamid Albar | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
