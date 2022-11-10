@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I’m currently studying Computer Science
+- I’m interested in machine learning and computer vision
 <!--
 **albaruzz/albaruzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
